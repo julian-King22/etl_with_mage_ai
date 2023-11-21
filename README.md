@@ -2,11 +2,11 @@
 
 ## About
 
-This data project details the usage of how [mage.ai]("https://www.mage.ai/") can be used as a tool to aid automation of a data pipeline
+This data project details the usage of how [mage.ai](https://www.mage.ai/) can be used as a tool to aid automation of a data pipeline
 
 Dataset is extracted from a website source which is based on the historical death of hip hop rap artists all over the world.
 
-[Data Source Here]("https://en.wikipedia.org/wiki/List_of_murdered_hip_hop_musicians")
+[Data Source Here](https://en.wikipedia.org/wiki/List_of_murdered_hip_hop_musicians)
 
 <br>
 
