@@ -41,4 +41,4 @@ Dataset is extracted from a website source which is based on the historical deat
 2. ssh into compute engine instance using vscode 
 3. Setting up Google Cloud Service account key
 4. Setting up a mage.ai instance and developing its data pipeline
-5. Data extraction from a we source using python web scraping tool (BeautifulSoup, requests)
+5. Data extraction from a web source using python web scraping tool (BeautifulSoup, requests)
